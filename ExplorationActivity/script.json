@@ -1,0 +1,12 @@
+{
+	"name": "ExplorationActivity",
+	"script": "ExplorationActivity.js",
+	"version": "0.0.1",
+	"previousversions": ["0.0.0"],
+	"description": "Exploration activities for Pathfinder 2E.",
+	"authors": "Alexander Brook Perry (@alexgeek)",
+	"roll20userid": "5516492",
+	"modifies":	{},
+	"conflicts": [],
+	"useroptions": []
+}
